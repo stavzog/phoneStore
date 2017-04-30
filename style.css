@@ -1,3 +1,8 @@
+body {
+    background-image: url(CHRIS.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
 table, td{
     text-align: center;
 }
