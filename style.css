@@ -13,7 +13,7 @@ table, td{
   font-family: Arial;
   background-color: #308e36;
 }
-li a {
+.nav-item a {
   display: block;
   background-color: #303331;
   padding: 14px 16px;
@@ -22,13 +22,13 @@ li a {
   font-family: Arial;
 }
 
-li {
+.nav-item {
   float:left;
 }
-li a:hover:not(.active) {
+.nav-item a:hover:not(.active) {
   background-color: black;
 }
-ul {
+.nav-list {
   list-style-type: none;
   background-color: #303331;
   overflow: hidden;
