@@ -4,3 +4,32 @@ table, td{
 table, td{
     font-family: cursive;
 }
+
+ .active {
+  background-color: #308e36;
+  padding: 14 16;
+  font-family: Arial;
+  font-size: 20px;
+}
+li a {
+  display: block;
+  background-color: #303331;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+  font-family: Arial;
+}
+
+li {
+  float:left;
+}
+li a:hover:not(.active) {
+  background-color: black;
+}
+ul {
+  list-style-type: none;
+  background-color: #303331;
+  overflow: hidden;
+  padding: 0px;
+  margin: 0px
+}
