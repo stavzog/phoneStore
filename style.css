@@ -6,10 +6,12 @@ table, td{
 }
 
  .active {
-  background-color: #308e36;
-  padding: 14 16;
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
   font-family: Arial;
-  font-size: 20px;
+  background-color: #308e36;
 }
 li a {
   display: block;
