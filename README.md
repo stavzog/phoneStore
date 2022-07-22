@@ -1,2 +1,2 @@
 # phoneStore
-This file is the phone store website we are about to introduce you (some time)
+This file is the phone store website that will be introduced (some time)(never)
